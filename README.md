@@ -2,4 +2,8 @@
 
 Course materials for ABE516X.
 
-Testing.
+
+#### Last Updated 10/12/2021
+
+* Added XGBoost + Imbalanced Classes + Imputation module
+
